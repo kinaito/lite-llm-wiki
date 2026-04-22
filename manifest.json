@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "minAppVersion": "1.4.0",
   "description": "基于LLM自动将Markdown文件转换为标准化知识卡片和实体页面，构建个人知识库",
-  "author": "树",
-  "authorUrl": "",
+  "author": "V二同学",
+  "authorUrl": "https://github.com/kinaito",
   "fundingUrl": "",
   "isDesktopOnly": false
 }
