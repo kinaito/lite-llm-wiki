@@ -1,9 +1,9 @@
 {
   "id": "lite-llm-wiki",
   "name": "Lite LLM Wiki",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "minAppVersion": "1.4.0",
-  "description": "基于LLM自动将Markdown文件转换为标准化知识卡片和实体页面，构建个人知识库",
+  "description": "AI-powered knowledge card generation tool, automatically convert Markdown notes into standardized knowledge cards and entity pages to build personal knowledge base quickly.",
   "author": "V二同学",
   "authorUrl": "https://github.com/kinaito",
   "fundingUrl": "",
