@@ -2,6 +2,11 @@
 
 一款基于大语言模型的Obsidian插件，可以自动将Markdown文件转换为标准化的知识卡片和实体页面，帮助你快速构建个人知识库。
 
+## ✨ 灵感来源
+本插件的核心方法来自AI大神Andrej Karpathy（前特斯拉AI负责人、OpenAI创始成员）提出的LLM知识库构建方案，原文可见：[Karpathy's LLM Wiki Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+
+我们在原方法基础上做了Obsidian插件化适配，加入了批量处理、实体关联、自定义提示词等实用功能，让每个人都能零代码一键使用这套高效的知识管理方法。
+
 ## ✨ 功能特性
 
 ### 🎯 核心功能
