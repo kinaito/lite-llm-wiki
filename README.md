@@ -4,14 +4,13 @@
 ## 插件简介
 基于大语言模型的Obsidian知识管理插件，自动将你的Markdown笔记转换为标准化的知识卡片和实体页面，一键构建个人知识图谱，让你的知识沉淀更高效。
 
-![右键批量生成功能](./screenshot_right_click.png)
-![内置LLM服务支持](./screenshot_config.png)
-
 ### 核心特性
 - 📇 智能生成结构化知识卡片，自动梳理笔记核心内容
 - 🤖 自动提取笔记中的核心概念和实体，生成标准化实体页面，自动构建双向关联
 - ⚡ 支持单文件/多文件/文件夹批量生成，增量更新不覆盖原有内容
+  ![右键批量生成功能](https://github.com/kinaito/lite-llm-wiki/raw/main/screenshot_right_click.png)
 - 🎯 开箱即用，无需配置任何LLM服务，直接就能用
+  ![内置LLM服务支持](https://github.com/kinaito/lite-llm-wiki/raw/main/screenshot_config.png)
 - 🔒 完全本地运行，绝不修改原始笔记文件，不写入任何FrontMatter，所有生成内容独立存放
 
 ---
